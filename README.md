@@ -1,7 +1,7 @@
 # Surprisebot
 I created an interactive poem/riddle for my dad. 
 
-[Meet surprisebot](https://web.telegram.org/#/im?p=@technologiepiet)
+[Meet surprisebot](https://web.telegram.org/#/im?p=@technologiepietbot)
 
 # Requirements:
 Docker
